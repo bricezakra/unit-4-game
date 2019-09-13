@@ -27,4 +27,15 @@ How to Play:
 
 
 
+
+
+
+Click on the deployment link below to start playing:
+
+https://bricezakra.github.io/unit-4-game/
+
+
+
+
+
 Let's have fun! 
