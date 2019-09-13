@@ -27,3 +27,15 @@ $(document).ready(function() {
 
             var wins = 0;
             var losses = 0;
+
+
+
+            function pickRandomNumber(arr) {
+
+                var x = arr[Math.floor(Math.random() * arr.length)];
+                randNumber = x;
+                $("#randomNumber").html(randNumber);
+
+                console.log("random number: " + randNumber);
+
+            }
